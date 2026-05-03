@@ -1,0 +1,5 @@
+com\restaurant\controller\MenuController$StatsResponse.class
+com\restaurant\controller\MenuController.class
+com\restaurant\model\MenuItem.class
+com\restaurant\RestaurantApplication.class
+com\restaurant\repository\MenuRepository.class
