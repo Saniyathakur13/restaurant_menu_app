@@ -1,6 +1,6 @@
 # 🍛 Spice Delight - Authentic Indian Restaurant
 <img width="1898" height="964" alt="Screenshot 2026-03-22 112931" src="https://github.com/user-attachments/assets/2257d959-14fd-4988-b766-c76f776f3b57" />
-![Uploading Screenshot 2026-03-22 112955.png…]()
+<img width="1900" height="805" alt="Screenshot 2026-03-22 112955" src="https://github.com/user-attachments/assets/d1d794bb-4661-4d68-9a4f-54041c113cbe" />
 
 A full-stack web application for an authentic Indian restaurant with online ordering, shopping cart, and payment integration.
 
