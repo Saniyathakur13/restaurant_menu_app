@@ -54,5 +54,6 @@ A full-stack web application for an authentic Indian restaurant with online orde
 - **Razorpay** - Payment gateway
 - **Maven** - Dependency management
 - **Git** - Version control
+mvn spring-boot:run
 
 
